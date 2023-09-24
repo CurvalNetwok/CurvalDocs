@@ -15,6 +15,6 @@ The Curval documentation is separated into three major parts:
 **3. Tutorials.** This part contains various consumer-focused tutorials. It can be accessed here. \*\*\*\*
 
 {% hint style="info" %}
-Join our [Telegram group](https://t.me/BigCurvals)\
+Join our [Telegram group](https://t.me/CurvalNetwork)\
 Or say hello at: info@Curvalnetwork.com
 {% endhint %}
